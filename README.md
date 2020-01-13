@@ -1,3 +1,12 @@
+#### 教育背景
+* 清华大学，教育研究院，硕士研究生（公共管理）
+* 清华大学，人文学院，本科（历史学）
+
+
+#### 工作经历
+*
+
+
 #### 工具能力
 * python
 > * 掌握水平良好，能够使用装饰器、高阶函数、OOP等功能；
@@ -11,6 +20,15 @@
 > * 使用过Hive、SparkSQL，了解分布式数据库的使用；
 > * 能够利用python的三方库（sqlalchemy、pandas）实现对数据库的操作
 
+
+#### 个人项目
+ * [cyanea](https://github.com/Bingtuu/cyanea)  
+ > 
+* [cyclophiops](https://github.com/Bingtuu/cyclophiops)
+>
+
+#### 学习笔记/博客文章
+* [python标准库学习：time、datetime和calendar](https://editor.csdn.net/md/?articleId=100696453)
 
 #### 在线简历
 您可以通过以下二维码在线浏览我的简历，在线简历将持续更新。感谢您的阅览！
