@@ -1,4 +1,4 @@
-#### $\clubsuit$ 工具能力
+#### 工具能力
 * python
 > * 掌握水平良好，能够使用装饰器、高阶函数、OOP等功能；
 > * 熟悉数据处理、统计分析、机器学习方面的第三方库，如numpy、pandas、scipy、statsmodel、sklearn等；
@@ -12,6 +12,6 @@
 > * 能够利用python的三方库（sqlalchemy、pandas）实现对数据库的操作
 
 
-#### $\nabla$ 在线简历
+#### 在线简历
 您可以通过以下二维码在线浏览我的简历，在线简历将持续更新。感谢您的阅览！
 ![resume_QR](/github简历二维码.png)
