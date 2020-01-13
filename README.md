@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#### 工具能力
+* python
+> * 掌握水平良好，能够使用装饰器、高阶函数、OOP等功能；
+> * 熟悉数据处理、统计分析、机器学习方面的第三方库，如numpy、pandas、scipy、statsmodel、sklearn等；
+> * 能够使用numpy、pandas、matplolib、seaborn等完成数据的处理工作，如数据清洗、指标计算、可视化等；
+> * 能够使用sklearn搭建机器学习流程，熟悉基本模型的参数、交叉验证、网格搜索等
 
-You can use the [editor on GitHub](https://github.com/Bingtuu/bingtuu_resume.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* SQL
+> * 掌握水平良好，能够熟练查询；熟悉连表查询，窗口函数等操作；
+> * 使用过Hive、SparkSQL，了解分布式数据库的使用；
+> * 能够利用python的三方库（sqlalchemy、pandas）实现对数据库的操作
 
-### Markdown
+* 其他
+> * 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bingtuu/bingtuu_resume.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 在线简历
+您可以通过以下二维码在线浏览我的简历，在线简历将持续更新。感谢您的阅览！
