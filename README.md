@@ -32,8 +32,9 @@
 
 #### 学习笔记/博客文章
 * [统计学习相关笔记](https://github.com/Bingtuu/statistical_learning_notes)
-* [python标准库学习：time、datetime和calendar](https://blog.csdn.net/github_37999869/article/details/100696453)
 * [数据分析相关python库文档阅读笔记]()
+* [python标准库学习：time、datetime和calendar](https://blog.csdn.net/github_37999869/article/details/100696453)
+
 
 
 #### 在线简历
