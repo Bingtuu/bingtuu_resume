@@ -8,9 +8,9 @@
 #### 教育背景
 * 本科（2009.8 ![](http://latex.codecogs.com/gif.latex?\\sim)
  2013.7）
-> * 清华大学 $\;\;\;\;\;\;\;\;$  历史系
-* 硕士研究生（2013.8 $\sim$ 2016.7）
-> * 清华大学  $\;\;\;\;\;\;\;\;$  教育研究院    $\;\;\;\;\;\;\;\;$  公共管理
+> * 清华大学  &nbsp;&nbsp;&nbsp;&nbsp; 历史系
+* 硕士研究生（2013.8 ![](http://latex.codecogs.com/gif.latex?\\sim) 2016.7）
+> * 清华大学  &nbsp;&nbsp;&nbsp;&nbsp;  教育研究院   &nbsp;&nbsp;&nbsp;&nbsp; 公共管理
 
 
 #### 工作经历
