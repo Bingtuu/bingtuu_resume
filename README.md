@@ -54,6 +54,8 @@
 * [统计学习相关笔记](https://github.com/Bingtuu/statistical_learning_notes)
 * [数据分析相关python库学习笔记]()
 * [python标准库学习：time、datetime和calendar](https://blog.csdn.net/github_37999869/article/details/100696453)
+* [SQL窗口函数与聚合表达式](https://blog.csdn.net/github_37999869/article/details/104672292)
+
 
 
 
