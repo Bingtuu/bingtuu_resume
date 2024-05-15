@@ -12,7 +12,7 @@
 
 
 #### 工作经历
-- [ ] &nbsp;&nbsp; **字节跳动** &nbsp;&nbsp;（2023年9月&nbsp;&nbsp;至今）
+- [x] &nbsp;&nbsp; **字节跳动** &nbsp;&nbsp;（2023年9月&nbsp;&nbsp;至今）
 - 部门： Monetization Product and Technology-Strategy and Data Science-Global Data Science-Mid-platform & Performance Ads
 - 主要工作：
 > * **广告归因分析**：闭环广告的归因分析 & 用户路径理解，支持业务优化广告归因规则和数据披露；
