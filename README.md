@@ -12,7 +12,14 @@
 
 
 #### 工作经历
-- [x] &nbsp;&nbsp; **北京达佳互联信息技术有限公司（快手）** &nbsp;&nbsp;（2021年9月&nbsp;&nbsp;至 2022年3月）
+- [ ] &nbsp;&nbsp; **字节跳动** &nbsp;&nbsp;（2023年9月&nbsp;&nbsp;至今）
+- 部门： Monetization Product and Technology-Strategy and Data Science-Global Data Science-Mid-platform & Performance Ads
+- 主要工作：
+> * **广告归因分析**：闭环广告的归因分析 & 用户路径理解，支持业务优化广告归因规则和数据披露；
+> * **广告平台**：广告主平台的产品分析，通过 A/B测试 等方式衡量新功能或产品迭代的效果
+
+
+- [ ] &nbsp;&nbsp; **北京达佳互联信息技术有限公司（快手）** &nbsp;&nbsp;（2021年9月&nbsp;&nbsp;至 2022年3月）
 - 部门： 电商经营管理部/策略运营中心
 - 主要工作：
 > * **经营分析**：基于业务整体目标和经营，从B端、C端、流量等方面对经营情况进行分析，通过拆解指标、联动业务等方式，对指标异动等进行归因分析；
